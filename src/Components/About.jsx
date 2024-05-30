@@ -24,19 +24,22 @@ const imageAltText = "purple and blue abstract background";
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I'm a UI/UX student studying at Barnett Technical University. I enjoy creating unique and simplistic user interfaces in creative ways.";
+  "Trained RTL Designer and 5G enthusiast, currently in my final year at VIT, Chennai. Developed practical skills through internships at Moog India Technology Center and Maven Silicon. Passionate about 5G Communication, Digital Electronics, IoT, and Sensor Technology.";
 
 /**
  * List of some of skills or technologies you work on, are learning,
  * passionate about, or enjoy,
  */
 const skillsList = [
-  "Web design",
-  "User experience",
-  "Inclusive design",
-  "Focus group testing",
-  "Mobile user interfaces",
-  "Graphic design",
+  "OrCAD Pspice",
+  "Allegro PCB Design",
+  "Part management",
+  "Design Verification Testing",
+  "Verilog",
+  "Python",
+  "Java",
+  "C",
+  "AIML",
 ];
 
 /**
@@ -45,7 +48,7 @@ const skillsList = [
  * about you on a professional level.
  */
 const detailOrQuote =
-  "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my UI/UX experience I continually look for new and better ways to make tech accessible by all.";
+  "I am eager to contribute to cutting-edge projects and continue my learning journey in the engineering field, bringing fresh perspectives and dedication to every opportunity I encounter.";
 
 const About = () => {
   return (

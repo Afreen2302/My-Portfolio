@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Password Operated Device Control🔐",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "A Password-Operated Device Control System using the AT89C51 microcontroller for secure access and user feedback.",
+    url: "https://github.com/Afreen2302/Password-Operated-Device-Control",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Agricultural crop recommendation system using IoT with ML🌽",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "Developed an IoT-based Agricultural Crop Recommendation System using ML to optimize crop selection and enhance sustainable farming practices.",
+    url: "https://github.com/Afreen2302/Agricultural-crop-recommendation-system-using-IoT-with-ML",
   },
   {
-    title: "My Resume Site",
+    title: "Voice-based Gender Classification using ML & DL🗣",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "Developed a voice signal gender classification system using ML and DL to enhance applications in security, healthcare, and personalized experiences.",
+    url: "https://github.com/Afreen2302/Voice-based-Gender-Classification-Web-Application-using-Python",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "RISC-V RV32I Multi-stage pipeline processor RTL Design⚡",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "Project based on Maven Silicon Design Internship.",
+    url: "https://github.com/Afreen2302/RISC-V-RV32I-Multi-stage-pipeline-processor-RTL-Design",
   },
 ];
 
