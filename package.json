@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Educator JS Codespace Template",
   "source": "src/index.html",
-  "homepage": "https://afreen.github.io/My-Portfolio",
+  "homepage": "https://Afreen2302.github.io/My-Portfolio",
   "scripts": {
     "start": "parcel",
     "build": "parcel build",
