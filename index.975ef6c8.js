@@ -28627,7 +28627,7 @@ var _propTypesDefault = parcelHelpers.interopDefault(_propTypes);
  * freely use on your site.
  */ var _img20220717153545Jpg = require("../images/IMG20220717153545.jpg");
 var _img20220717153545JpgDefault = parcelHelpers.interopDefault(_img20220717153545Jpg);
-const imageAltText = "Adult female leaning against a blackish-grey background.";
+const imageAltText = "Female leaning against a blackish-grey background.";
 const Home = ({ name , title  })=>{
     return /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("section", {
         id: "home",
