@@ -28718,7 +28718,7 @@ $RefreshReg$(_c, "Home");
   window.$RefreshReg$ = prevRefreshReg;
   window.$RefreshSig$ = prevRefreshSig;
 }
-},{"react/jsx-dev-runtime":"iTorj","react":"21dqq","../images/down-arrow.svg":"b5nCi","prop-types":"7wKI2","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3","@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js":"km3Ru","../images/IMG20220717153545.jpg":"b25FJ"}],"b5nCi":[function(require,module,exports) {
+},{"react/jsx-dev-runtime":"iTorj","react":"21dqq","../images/down-arrow.svg":"b5nCi","prop-types":"7wKI2","../images/IMG20220717153545.jpg":"b25FJ","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3","@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js":"km3Ru"}],"b5nCi":[function(require,module,exports) {
 module.exports = require("./helpers/bundle-url").getBundleURL("bLxZJ") + "down-arrow.1037091f.svg" + "?" + Date.now();
 
 },{"./helpers/bundle-url":"lgJ39"}],"b25FJ":[function(require,module,exports) {
@@ -28774,7 +28774,7 @@ const imageAltText = "desktop with books and laptop";
     {
         title: "Voice-based Gender Classification using ML & DL\uD83D\uDDE3",
         description: "Developed a voice signal gender classification system using ML and DL to enhance applications in security, healthcare, and personalized\xa0experiences.",
-        url: "https://github.com/Afreen2302/Voice-based-Gender-Classification-Web-Application-using-Python"
+        url: "https://github.com/Afreen2302/Voice-based-Gender-Classification-Using-ML-and-DL"
     },
     {
         title: "RISC-V RV32I Multi-stage pipeline processor RTL Design⚡",
