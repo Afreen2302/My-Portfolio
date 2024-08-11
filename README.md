@@ -12,4 +12,4 @@ Welcome to my portfolio! Here you'll find a showcase of my projects and skills.
 
 ## 📫 Contact
 
-Feel free to reach out via [LinkedIn](https://linkedin.com/in/your-profile) or [email](mailto:your-email@example.com).
+Feel free to reach out via [LinkedIn](https://linkedin.com/in/afreen-s-6b3882227) or [email](mailto:afreenshajakhan23@gmail.com).
